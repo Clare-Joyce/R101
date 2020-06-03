@@ -1,0 +1,2 @@
+# R101
+ Studying the fundamentals of R syntax, like assigning variables and doing simple operations with one of R's most important data structures -- vectors.  Learning about lists, matrix, arrays and data frames in R.  Then conditional statements, functions, classes and debugging. Learn how to read and write data in R, whether it's a table format (CSV, Excel) or a text file (.txt). Finally, looking at some important functions for character strings and dates in R.
